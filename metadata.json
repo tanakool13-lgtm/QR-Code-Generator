@@ -1,0 +1,6 @@
+{
+  "name": "QR Checksum & Payload Generator",
+  "description": "Visualize, generate, and edit PromptPay and EMVCo QR codes with dynamic CRC16-CCITT False calculations, payload parsers, and direct shares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
